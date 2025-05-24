@@ -1,0 +1,1 @@
+This was a for-fun flight with Tempest on an aerotech k1275. I had my FlightComputerV1 payload inside and two altimeters, so lots of data.
